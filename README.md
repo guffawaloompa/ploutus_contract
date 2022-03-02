@@ -18,9 +18,9 @@
 
 ‼️ Slippage: 11-12% ‼️
 
-🌎 Website: Ploutus.finance (https://ploutus.finance/) (not live yet)  
-🐦 Twitter: https://twitter.com/ploutusfinance 
-✈️ TG: @Ploutus_Finance
+🌎 Website: [Ploutus.finance](https://ploutus.finance/)  
+🐦 Twitter: https://twitter.com/ploutusfinance   
+✈️ TG: [@PloutusFinance](https://t.me/PloutusFinance)
 
            ⚜️ Ploutokenomics ⚜️
 
