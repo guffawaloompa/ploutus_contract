@@ -40,4 +40,3 @@ Max Supply: 500M
 3️⃣ Team: 5% (locked for 3 months)
 
 💵 Buy link: Zappy.finance (https://www.zappy.finance/swap?from=tlos&to=0x8b377acebccf930fec65e9ccb693bdb1be3fd3c0)
-📈 Charm: Dextools (https://www.dextools.io/app/telos/pair-explorer/0x232dec106111653c4e353323ba143458b6c662f7)
