@@ -35,8 +35,8 @@ Supply distribution:
 
 Max Supply: 500M
 
-1️⃣ Initial Liquidity: 50%
-2️⃣ Ecosystem Growth, Partnerships, Staking, Games, Events etc: 45%
+1️⃣ Initial Liquidity: 50%  
+2️⃣ Ecosystem Growth, Partnerships, Staking, Games, Events etc: 45%  
 3️⃣ Team: 5% (locked for 3 months)
 
 💵 Buy link: Zappy.finance (https://www.zappy.finance/swap?from=tlos&to=0x8b377acebccf930fec65e9ccb693bdb1be3fd3c0)
