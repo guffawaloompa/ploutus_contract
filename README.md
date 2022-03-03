@@ -1,3 +1,6 @@
+![image](https://ploutus.finance/static/logo5.png)
+
+
 # ploutus_contract
 📣 PLOUTUS - The Greek God of Wealth is coming to Telos!
 
