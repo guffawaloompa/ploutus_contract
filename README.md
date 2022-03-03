@@ -1,5 +1,6 @@
 ![image](https://ploutus.finance/static/logo5.png)
 
+[SOURCE CODE](/Token/Ploutus.sol)
 
 # ploutus_contract
 📣 PLOUTUS - The Greek God of Wealth is coming to Telos!
