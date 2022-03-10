@@ -38,7 +38,7 @@
 
 Supply distribution:
 
-Max Supply: 500M
+Max Supply: 100M
 
 1️⃣ Initial Liquidity: 50%  
 2️⃣ Ecosystem Growth, Partnerships, Staking, Games, Events etc: 45%  
