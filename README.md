@@ -12,12 +12,12 @@
 
 ✅ Contract verified and available
 
-🔐 Liquidity will be locked
+🔐 Liquidity is locked
 
-💯 We will have staking, while still getting reflections, and without tax 💯
+💯 We will have staking, while still getting reflections 💯
 
 🤷‍♂️ Where? ⚡️Zappy!⚡️
-⏰ Wen? Just now
+⏰ Wen? Now!
 
 📝 Contract address: 0x8b377ACEBccF930Fec65E9ccB693bDB1Be3Fd3c0
 
